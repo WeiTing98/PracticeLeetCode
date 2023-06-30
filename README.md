@@ -1,0 +1,2 @@
+Practice LeetCode
+用來記錄暑假練習LeetCode的code
